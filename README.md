@@ -98,4 +98,6 @@ BOT_TOKEN=123456789:ABCDefGhIJKlmNoPQRsTUVwxyZ
 
 
 
+---
 
+Currently it only reads the text from the PDF but can be changed by just some changes .
