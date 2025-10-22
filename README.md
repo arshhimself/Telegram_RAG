@@ -1,7 +1,7 @@
 # RAG-Powered Telegram Bot
 
 This is a Telegram bot that uses **RAG (Retrieval-Augmented Generation)** to answer questions from a PDF document using OpenAI embeddings and LLMs.
-
+All you have to do is give a PDF file (can be anything book, resume, script) and the bot will answer respective to that information present in the PDF. 
 ---
 
 ## Features
